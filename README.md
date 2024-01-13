@@ -14,7 +14,6 @@ Hey there! 👋 Welcome to my Node.js eCommerce API project. This is my personal
 
 - **Image Handling:** Manage and process images in the cloud with [cloudinary](https://www.npmjs.com/package/cloudinary) and [multer](https://www.npmjs.com/package/multer).
 
-... [Continue with the rest of the features.]
 
 ## Technologies Used
 
